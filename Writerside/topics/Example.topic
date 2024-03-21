@@ -21,7 +21,7 @@
     <chapter title="Driver JDBC" id="driver-jdbc">
         <procedure title="JDBC">
             <step>
-                Il driver <tooltip term="JDBC">JDBC</tooltip> scaricato nel capitolo <a href="Recupero-del-driver-JDBC.md" summary="Questo capitolo spiega come recuperare il driver JDBC, necessario per l'installazione e l'utilizzo della PdC">Recupero del driver JDBC</a>, entrare nella cartella <path>Microsoft JDBC Driver 7.2 for SQL Server</path> > <path>sqljdbc_7.2</path> > <path>ita</path> e copiare il driver.
+                Il driver JDBC scaricato nel capitolo <a href="Empty-MD-Topic.md" summary="Questo capitolo spiega come recuperare il driver JDBC, necessario per l'installazione e l'utilizzo della PdC">Recupero del driver JDBC</a>, entrare nella cartella <path>Microsoft JDBC Driver 7.2 for SQL Server</path> > <path>sqljdbc_7.2</path> > <path>ita</path> e copiare il driver.
                 <warning>È importate che sia <b>copiato</b> il file <b>mssql-jdbc-7.2.2.jre8.jar</b> e non <b>mssql-jdbc-7.2.2.jre11.jar</b>.</warning>
             </step>
             <step>

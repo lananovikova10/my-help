@@ -10,4 +10,12 @@
         <description>Created after removal of "Flowcart" from best</description>
         <accepts>Flowcart.html</accepts>
     </rule>
+    <rule id="4f35104">
+        <description>Created after removal of "Concept template" from best</description>
+        <accepts>template-concept.html</accepts>
+    </rule>
+    <rule id="3a130cbd">
+        <description>Created after removal of "Title" from best</description>
+        <accepts>template-installation-guide.html</accepts>
+    </rule>
 </rules>

@@ -1,9 +1,5 @@
 # Grid tables
 
-```Actionscript
-
-
-```
 {}
 
 ## Fist example

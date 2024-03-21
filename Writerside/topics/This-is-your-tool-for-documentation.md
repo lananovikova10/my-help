@@ -1,37 +1,11 @@
-# About best
+# This is your tool for documentation
 
 <!--Writerside adds this topic when you create a new documentation project.
 You can use it as a sandbox to play with Writerside features, and remove it from the TOC when you don't need it anymore.-->
 
-## Add new topics s
+![wrs illustration](chuvakix.png)
 
-
-| 1 | 2 | 3 |
-|---|---|---|
-| 4 | 5 | 6 |
-
-<icon src="360.svg"/>
-
-```bash
-```
-{src="bash.sh"}
-
-
-```sql
-SELECT
-    invoice_item.item_number,
-    recorded_study_service.study_service,
-    COUNT(recorded_study_service.*) AS number_of_units
-FROM
-    invoice
-        INNER JOIN
-    invoice_item ON invoice.id = invoice_item.invoice
-        LEFT JOIN
-    recorded_study_service ON invoice_item.id = recorded_study_service.invoice_item
-GROUP BY
-    recorded_study_service.invoice_item;
-```
-
+## Add new topics
 You can create empty topics, or choose a template for different types of content that contains some boilerplate structure to help you get started:
 
 ![Create new topic options](new_topic_options.png){ width=290 }{border-effect=line}

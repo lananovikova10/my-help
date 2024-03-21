@@ -10,7 +10,9 @@
             <algolia-api-key>ac9df245bbc9e236e7e54d530b0f7dd2</algolia-api-key>
             <algolia-id>V6MS25BRYB</algolia-id>
             <algolia-index>test_Writerside</algolia-index>
+            <web-root>https://some.domain</web-root>
         </variables>
     </build-profile>
+    <icons><local-src>/icons</local-src></icons>
 
 </buildprofiles>

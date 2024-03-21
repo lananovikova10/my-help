@@ -6,6 +6,15 @@
                  name="best"
                  start-page="starter-topic.md">
 
-    <toc-element topic="Flowcart.md"/>
+    <toc-element topic="template-installation-guide.md"/>
+    <toc-element topic="Example.topic"/>
+    <toc-element topic="template-concept.md"/>
+    <toc-element topic="This-is-your-tool-for-documentation.md"/>
+    <toc-element topic="Empty-MD-Topic.md"/>
+    <toc-element topic="Empty-XML-Topic.topic"/>
+    <toc-element topic="Grid-tables.md"/>
     <toc-element topic="starter-topic.md"/>
+    <toc-element topic="How-to-do-things.md">
+        <toc-element topic="Overview.topic"/>
+    </toc-element>
 </instance-profile>

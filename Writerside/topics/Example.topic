@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Example" id="Example">
+
+    <show-structure for="topic" depth="2"/>
+    <note>Per questioni di semplicità, l'archvio <b>PdC_vX.X.XX.XX.XX.zip</b> all'interno del percorso <path>PachettoPdCA2A/Software</path> verrà chiamata <b>PdC_A2A_Installazione</b>. Si consiglia di rinominarla.</note>
+
+    <tip>
+        È molto importate prestare attenzione quando vengono efettuati questi step, siccome questa è una delle sezioni più importanti per l'installazione della PdC.
+
+        Se si incontrano problemi nelle sezioni successive, è consigliato ricontrollare passo per passo questa sezione.
+    </tip>
+
+    <tip>
+        È consigliato spostare la cartella di <path>Wildfly</path> nel percorso della <path>PdC</path>, ottenendo il seguente risultato:
+    </tip>
+
+    <chapter title="Driver JDBC" id="driver-jdbc">
+        <procedure title="JDBC">
+            <step>
+                Il driver <tooltip term="JDBC">JDBC</tooltip> scaricato nel capitolo <a href="Recupero-del-driver-JDBC.md" summary="Questo capitolo spiega come recuperare il driver JDBC, necessario per l'installazione e l'utilizzo della PdC">Recupero del driver JDBC</a>, entrare nella cartella <path>Microsoft JDBC Driver 7.2 for SQL Server</path> > <path>sqljdbc_7.2</path> > <path>ita</path> e copiare il driver.
+                <warning>È importate che sia <b>copiato</b> il file <b>mssql-jdbc-7.2.2.jre8.jar</b> e non <b>mssql-jdbc-7.2.2.jre11.jar</b>.</warning>
+            </step>
+            <step>
+                Dopodiché, bisogna incollarlo su <b>Wildfly</b> > <path>standalone</path> > <path>deployments</path>.
+            </step>
+        </procedure>
+    </chapter>
+</topic>

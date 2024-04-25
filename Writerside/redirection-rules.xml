@@ -18,4 +18,624 @@
         <description>Created after removal of "Title" from best</description>
         <accepts>template-installation-guide.html</accepts>
     </rule>
+    <rule id="c275239">
+        <description>Created after removal of "Schemas" from best</description>
+        <accepts>Schemas2.html</accepts>
+    </rule>
+    <rule id="25e76338">
+        <description>Created after removal of "illustrationRequestContributionType" from best</description>
+        <accepts>illustrationRequestContributionType.html</accepts>
+    </rule>
+    <rule id="14668be4">
+        <description>Created after removal of "illustrationResidency" from best</description>
+        <accepts>illustrationResidency.html</accepts>
+    </rule>
+    <rule id="4ddd558c">
+        <description>Created after removal of "clientRequestIllustrationType" from best</description>
+        <accepts>clientRequestIllustrationType.html</accepts>
+    </rule>
+    <rule id="6d33fd7a">
+        <description>Created after removal of "attachmentType" from best</description>
+        <accepts>attachmentType.html</accepts>
+    </rule>
+    <rule id="bf4c96c">
+        <description>Created after removal of "attachmentDmsStatus" from best</description>
+        <accepts>attachmentDmsStatus.html</accepts>
+    </rule>
+    <rule id="a3cb669">
+        <description>Created after removal of "entityType" from best</description>
+        <accepts>entityType.html</accepts>
+    </rule>
+    <rule id="1476287d">
+        <description>Created after removal of "paymentMethodType" from best</description>
+        <accepts>paymentMethodType.html</accepts>
+    </rule>
+    <rule id="37a7643e">
+        <description>Created after removal of "WIMTPartyType" from best</description>
+        <accepts>WIMTPartyType.html</accepts>
+    </rule>
+    <rule id="6bb686a1">
+        <description>Created after removal of "title" from best</description>
+        <accepts>title.html</accepts>
+    </rule>
+    <rule id="52320a2f">
+        <description>Created after removal of "EmployerContScheduleDtlCreate" from best</description>
+        <accepts>EmployerContScheduleDtlCreate.html</accepts>
+    </rule>
+    <rule id="45c5400">
+        <description>Created after removal of "EmployerContScheduleDtlUpdate" from best</description>
+        <accepts>EmployerContScheduleDtlUpdate.html</accepts>
+    </rule>
+    <rule id="4a3c030b">
+        <description>Created after removal of "AdhocIncomeRequestPostWIMT" from best</description>
+        <accepts>AdhocIncomeRequestPostWIMT.html</accepts>
+    </rule>
+    <rule id="35038738">
+        <description>Created after removal of "cashDistributionOption" from best</description>
+        <accepts>cashDistributionOption.html</accepts>
+    </rule>
+    <rule id="746f0c06">
+        <description>Created after removal of "MasterWorkItemCreatedRESPONSE" from best</description>
+        <accepts>MasterWorkItemCreatedRESPONSE.html</accepts>
+    </rule>
+    <rule id="3a694bda">
+        <description>Created after removal of "reportingFrequency" from best</description>
+        <accepts>reportingFrequency.html</accepts>
+    </rule>
+    <rule id="5cb67a99">
+        <description>Created after removal of "gender" from best</description>
+        <accepts>gender.html</accepts>
+    </rule>
+    <rule id="4dd9b9c2">
+        <description>Created after removal of "fatcaStatus" from best</description>
+        <accepts>fatcaStatus.html</accepts>
+    </rule>
+    <rule id="106ef8bc">
+        <description>Created after removal of "MemberAccountTransaction" from best</description>
+        <accepts>MemberAccountTransaction.html</accepts>
+    </rule>
+    <rule id="4bc6a792">
+        <description>Created after removal of "paymentFrequency" from best</description>
+        <accepts>paymentFrequency.html</accepts>
+    </rule>
+    <rule id="681a351e">
+        <description>Created after removal of "tradingBasis" from best</description>
+        <accepts>tradingBasis.html</accepts>
+    </rule>
+    <rule id="6815e73">
+        <description>Created after removal of "incomePaymentFrequency" from best</description>
+        <accepts>incomePaymentFrequency.html</accepts>
+    </rule>
+    <rule id="4f633563">
+        <description>Created after removal of "pensionPaymentFrequency" from best</description>
+        <accepts>pensionPaymentFrequency.html</accepts>
+    </rule>
+    <rule id="1681fda">
+        <description>Created after removal of "accountType" from best</description>
+        <accepts>accountType.html</accepts>
+    </rule>
+    <rule id="16e8e69">
+        <description>Created after removal of "batchRunStatus" from best</description>
+        <accepts>batchRunStatus.html</accepts>
+    </rule>
+    <rule id="21732237">
+        <description>Created after removal of "productType" from best</description>
+        <accepts>productType.html</accepts>
+    </rule>
+    <rule id="59166e53">
+        <description>Created after removal of "basisOfSale" from best</description>
+        <accepts>basisOfSale.html</accepts>
+    </rule>
+    <rule id="180bd79f">
+        <description>Created after removal of "inOutFlag" from best</description>
+        <accepts>inOutFlag.html</accepts>
+    </rule>
+    <rule id="6dfd2dc3">
+        <description>Created after removal of "processType" from best</description>
+        <accepts>processType.html</accepts>
+    </rule>
+    <rule id="5ec9e825">
+        <description>Created after removal of "receivedMethod" from best</description>
+        <accepts>receivedMethod.html</accepts>
+    </rule>
+    <rule id="6a4b5520">
+        <description>Created after removal of "workItemState" from best</description>
+        <accepts>workItemState.html</accepts>
+    </rule>
+    <rule id="39df98c3">
+        <description>Created after removal of "workItemStatus" from best</description>
+        <accepts>workItemStatus.html</accepts>
+    </rule>
+    <rule id="6cd1197d">
+        <description>Created after removal of "regularContReinvestmentApplies" from best</description>
+        <accepts>regularContReinvestmentApplies.html</accepts>
+    </rule>
+    <rule id="6c5da1d7">
+        <description>Created after removal of "bankAccountType" from best</description>
+        <accepts>bankAccountType.html</accepts>
+    </rule>
+    <rule id="74f206cf">
+        <description>Created after removal of "addressType" from best</description>
+        <accepts>addressType.html</accepts>
+    </rule>
+    <rule id="3b61b886">
+        <description>Created after removal of "preferredCorrespondenceMethod" from best</description>
+        <accepts>preferredCorrespondenceMethod.html</accepts>
+    </rule>
+    <rule id="7e0bcf93">
+        <description>Created after removal of "partyTypeForCustomAttributes" from best</description>
+        <accepts>partyTypeForCustomAttributes.html</accepts>
+    </rule>
+    <rule id="3c07b1d8">
+        <description>Created after removal of "partyTypeForWIMT" from best</description>
+        <accepts>partyTypeForWIMT.html</accepts>
+    </rule>
+    <rule id="4bd8e386">
+        <description>Created after removal of "AccountCommissionType" from best</description>
+        <accepts>AccountCommissionType.html</accepts>
+    </rule>
+    <rule id="30d1d30b">
+        <description>Created after removal of "RecurringSwitchTypeEnum" from best</description>
+        <accepts>RecurringSwitchTypeEnum.html</accepts>
+    </rule>
+    <rule id="6fc5fd62">
+        <description>Created after removal of "partyType" from best</description>
+        <accepts>partyType.html</accepts>
+    </rule>
+    <rule id="6e6218b3">
+        <description>Created after removal of "autoEnrolmentClassification" from best</description>
+        <accepts>autoEnrolmentClassification.html</accepts>
+    </rule>
+    <rule id="20413f66">
+        <description>Created after removal of "string" from best</description>
+        <accepts>string6.html</accepts>
+    </rule>
+    <rule id="6a0e2122">
+        <description>Created after removal of "boolean" from best</description>
+        <accepts>boolean.html</accepts>
+    </rule>
+    <rule id="5ff76bb3">
+        <description>Created after removal of "string" from best</description>
+        <accepts>string5.html</accepts>
+    </rule>
+    <rule id="5425d1a5">
+        <description>Created after removal of "string" from best</description>
+        <accepts>string4.html</accepts>
+    </rule>
+    <rule id="1939d60d">
+        <description>Created after removal of "string" from best</description>
+        <accepts>string3.html</accepts>
+    </rule>
+    <rule id="58ee56fc">
+        <description>Created after removal of "string" from best</description>
+        <accepts>string2.html</accepts>
+    </rule>
+    <rule id="36ab5bf5">
+        <description>Created after removal of "string date-time" from best</description>
+        <accepts>string_date_time2.html</accepts>
+    </rule>
+    <rule id="5e9846e3">
+        <description>Created after removal of "string date" from best</description>
+        <accepts>string_date2.html</accepts>
+    </rule>
+    <rule id="e7c69da">
+        <description>Created after removal of "string date-time" from best</description>
+        <accepts>string_date_time.html</accepts>
+    </rule>
+    <rule id="2253beeb">
+        <description>Created after removal of "string date" from best</description>
+        <accepts>string_date.html</accepts>
+    </rule>
+    <rule id="1e9211bd">
+        <description>Created after removal of "activeInactiveStatus" from best</description>
+        <accepts>activeInactiveStatus.html</accepts>
+    </rule>
+    <rule id="2e3a9ca2">
+        <description>Created after removal of "string" from best</description>
+        <accepts>string.html</accepts>
+    </rule>
+    <rule id="47411c3c">
+        <description>Created after removal of "integer int64" from best</description>
+        <accepts>integer_int642.html</accepts>
+    </rule>
+    <rule id="5c251df9">
+        <description>Created after removal of "integer int32" from best</description>
+        <accepts>integer_int32.html</accepts>
+    </rule>
+    <rule id="654ef1b4">
+        <description>Created after removal of "integer int64" from best</description>
+        <accepts>integer_int64.html</accepts>
+    </rule>
+    <rule id="7636e50e">
+        <description>Created after removal of "ErrorDataSourceDetails" from best</description>
+        <accepts>ErrorDataSourceDetails.html</accepts>
+    </rule>
+    <rule id="86bd651">
+        <description>Created after removal of "AccessTokenError" from best</description>
+        <accepts>AccessTokenError.html</accepts>
+    </rule>
+    <rule id="26d228f1">
+        <description>Created after removal of "500InternalServerErrorRESPONSE" from best</description>
+        <accepts>500InternalServerErrorRESPONSE.html</accepts>
+    </rule>
+    <rule id="3619ffd5">
+        <description>Created after removal of "422UnprocessableEntityRESPONSE" from best</description>
+        <accepts>422UnprocessableEntityRESPONSE.html</accepts>
+    </rule>
+    <rule id="514fc127">
+        <description>Created after removal of "404NotFoundRESPONSE" from best</description>
+        <accepts>404NotFoundRESPONSE.html</accepts>
+    </rule>
+    <rule id="605417df">
+        <description>Created after removal of "403ForbiddenRESPONSE" from best</description>
+        <accepts>403ForbiddenRESPONSE.html</accepts>
+    </rule>
+    <rule id="6a077c0">
+        <description>Created after removal of "401UnauthorizedRESPONSE" from best</description>
+        <accepts>401UnauthorizedRESPONSE.html</accepts>
+    </rule>
+    <rule id="7f1c99bc">
+        <description>Created after removal of "400BadRequestRESPONSE" from best</description>
+        <accepts>400BadRequestRESPONSE.html</accepts>
+    </rule>
+    <rule id="75e4cdc5">
+        <description>Created after removal of "201CreatedRESPONSEBatchRunId" from best</description>
+        <accepts>201CreatedRESPONSEBatchRunId.html</accepts>
+    </rule>
+    <rule id="46a9c86d">
+        <description>Created after removal of "201CreatedRESPONSEWithWorkItemId" from best</description>
+        <accepts>201CreatedRESPONSEWithWorkItemId.html</accepts>
+    </rule>
+    <rule id="133f5344">
+        <description>Created after removal of "201CreatedRESPONSE" from best</description>
+        <accepts>201CreatedRESPONSE.html</accepts>
+    </rule>
+    <rule id="4cdccd2b">
+        <description>Created after removal of "Obtain an API Access Token" from best</description>
+        <accepts>Obtain_an_API_Access_Token.html</accepts>
+    </rule>
+    <rule id="6772a055">
+        <description>Created after removal of "Create a new IDD account for a crystallised transfer" from best
+        </description>
+        <accepts>Create_a_new_IDD_account_for_a_crystallised_transfer.html</accepts>
+    </rule>
+    <rule id="69f83dbf">
+        <description>Created after removal of "Create and Update Party External References" from best</description>
+        <accepts>Create_and_Update_Party_External_References.html</accepts>
+    </rule>
+    <rule id="59ae1575">
+        <description>Created after removal of "Create an Illustration request" from best</description>
+        <accepts>Create_an_Illustration_request.html</accepts>
+    </rule>
+    <rule id="6774940a">
+        <description>Created after removal of "Get Bulk Process details" from best</description>
+        <accepts>Get_Bulk_Process_details.html</accepts>
+    </rule>
+    <rule id="744d90fd">
+        <description>Created after removal of "Retrieve the Saga Status for an Async Service Request" from best
+        </description>
+        <accepts>Retrieve_the_Saga_Status_for_an_Async_Service_Request.html</accepts>
+    </rule>
+    <rule id="7bbc0522">
+        <description>Created after removal of "Retrieval of Batch Run details" from best</description>
+        <accepts>Retrieval_of_Batch_Run_details.html</accepts>
+    </rule>
+    <rule id="24480a4d">
+        <description>Created after removal of "Retrieve the Status of a Service Request" from best</description>
+        <accepts>Retrieve_the_Status_of_a_Service_Request.html</accepts>
+    </rule>
+    <rule id="64788dd4">
+        <description>Created after removal of "Retrieve available Cash Reserve Purpose Types" from best</description>
+        <accepts>Retrieve_available_Cash_Reserve_Purpose_Types.html</accepts>
+    </rule>
+    <rule id="40ac2a2a">
+        <description>Created after removal of "Maintain Custom Attributes for a nominated Party" from best</description>
+        <accepts>Maintain_Custom_Attributes_for_a_nominated_Party.html</accepts>
+    </rule>
+    <rule id="1c509629">
+        <description>Created after removal of "Retrieve Custom Attributes for a nominated Party" from best</description>
+        <accepts>Retrieve_Custom_Attributes_for_a_nominated_Party.html</accepts>
+    </rule>
+    <rule id="596cbd1e">
+        <description>Created after removal of "Retrieve Party External References" from best</description>
+        <accepts>Retrieve_Party_External_References.html</accepts>
+    </rule>
+    <rule id="d862812">
+        <description>Created after removal of "Work Item Managed Tasks - Update Custom Attributes" from best
+        </description>
+        <accepts>Work_Item_Managed_Tasks_Update_Custom_Attributes.html</accepts>
+    </rule>
+    <rule id="2d7eccf0">
+        <description>Created after removal of "Replace an ad hoc pension income request for an investor’s income
+            drawdown account" from best
+        </description>
+        <accepts>Replace_an_ad_hoc_pension_income_request_for_an_investor_s_income_drawdown_account.html</accepts>
+    </rule>
+    <rule id="1ba8d45a">
+        <description>Created after removal of "Create an ad hoc pension income request for an investor’s income drawdown
+            account" from best
+        </description>
+        <accepts>Create_an_ad_hoc_pension_income_request_for_an_investor_s_income_drawdown_account.html</accepts>
+    </rule>
+    <rule id="8ee73f4">
+        <description>Created after removal of "Work Item Managed Tasks - Update an Employer Contribution Schedule" from
+            best
+        </description>
+        <accepts>Work_Item_Managed_Tasks_Update_an_Employer_Contribution_Schedule.html</accepts>
+    </rule>
+    <rule id="28dc8112">
+        <description>Created after removal of "Work Item Managed Tasks - Override Investor Account Employer Contribution
+            Schedule Details." from best
+        </description>
+        <accepts>Work_Item_Managed_Tasks_Override_Investor_Account_Employer_Contribution_Schedule_Details_.html
+        </accepts>
+    </rule>
+    <rule id="76afcefb">
+        <description>Created after removal of "Work Item Managed Tasks - Update Investor Account Beneficiaries" from
+            best
+        </description>
+        <accepts>Work_Item_Managed_Tasks_Update_Investor_Account_Beneficiaries.html</accepts>
+    </rule>
+    <rule id="3274978e">
+        <description>Created after removal of "Work Item Managed Tasks - Create new Individual relations." from best
+        </description>
+        <accepts>Work_Item_Managed_Tasks_Create_new_Individual_relations_.html</accepts>
+    </rule>
+    <rule id="71555c7">
+        <description>Created after removal of "Work Item Managed Tasks - Add a new bank account" from best</description>
+        <accepts>Work_Item_Managed_Tasks_Add_a_new_bank_account.html</accepts>
+    </rule>
+    <rule id="29b33473">
+        <description>Created after removal of "Work Item Managed Tasks - Update Investor Personal Details" from best
+        </description>
+        <accepts>Work_Item_Managed_Tasks_Update_Investor_Personal_Details.html</accepts>
+    </rule>
+    <rule id="51286b22">
+        <description>Created after removal of "Create Master Work Item with optional child" from best</description>
+        <accepts>Create_Master_Work_Item_with_optional_child.html</accepts>
+    </rule>
+    <rule id="db0a5c6">
+        <description>Created after removal of "Create a Work Item attachment" from best</description>
+        <accepts>Create_a_Work_Item_attachment.html</accepts>
+    </rule>
+    <rule id="4ec0a372">
+        <description>Created after removal of "Retrieve a Work Item attachment" from best</description>
+        <accepts>Retrieve_a_Work_Item_attachment.html</accepts>
+    </rule>
+    <rule id="4b6ec27e">
+        <description>Created after removal of "Reject a Work Item" from best</description>
+        <accepts>Reject_a_Work_Item.html</accepts>
+    </rule>
+    <rule id="2a8df081">
+        <description>Created after removal of "Accept a Work Item" from best</description>
+        <accepts>Accept_a_Work_Item.html</accepts>
+    </rule>
+    <rule id="7b73af4d">
+        <description>Created after removal of "Create a Work Item" from best</description>
+        <accepts>Create_a_Work_Item.html</accepts>
+    </rule>
+    <rule id="143c0d31">
+        <description>Created after removal of "Work Item search" from best</description>
+        <accepts>Work_Item_search.html</accepts>
+    </rule>
+    <rule id="75f7277d">
+        <description>Created after removal of "Create a Switch Request" from best</description>
+        <accepts>Create_a_Switch_Request.html</accepts>
+    </rule>
+    <rule id="5936028">
+        <description>Created after removal of "Create a Sale Request" from best</description>
+        <accepts>Create_a_Sale_Request.html</accepts>
+    </rule>
+    <rule id="2d571642">
+        <description>Created after removal of "Create a Purchase Request" from best</description>
+        <accepts>Create_a_Purchase_Request.html</accepts>
+    </rule>
+    <rule id="119044e2">
+        <description>Created after removal of "Retrieve an Investment Manager's details" from best</description>
+        <accepts>Retrieve_an_Investment_Manager_s_details.html</accepts>
+    </rule>
+    <rule id="19a9cd79">
+        <description>Created after removal of "Retrieve Asset Types" from best</description>
+        <accepts>Retrieve_Asset_Types.html</accepts>
+    </rule>
+    <rule id="56a48827">
+        <description>Created after removal of "Investment search" from best</description>
+        <accepts>Investment_search.html</accepts>
+    </rule>
+    <rule id="2ded8e49">
+        <description>Created after removal of "Institution Branch search" from best</description>
+        <accepts>Institution_Branch_search.html</accepts>
+    </rule>
+    <rule id="23085d4">
+        <description>Created after removal of "Complying Fund search" from best</description>
+        <accepts>Complying_Fund_search.html</accepts>
+    </rule>
+    <rule id="4e726fb2">
+        <description>Created after removal of "Product search" from best</description>
+        <accepts>Product_search.html</accepts>
+    </rule>
+    <rule id="7d062813">
+        <description>Created after removal of "Employer Member Updates Upload" from best</description>
+        <accepts>Employer_Member_Updates_Upload.html</accepts>
+    </rule>
+    <rule id="193f6868">
+        <description>Created after removal of "Employer Joiners Upload" from best</description>
+        <accepts>Employer_Joiners_Upload.html</accepts>
+    </rule>
+    <rule id="16dbf0b6">
+        <description>Created after removal of "Employer Contribution Schedule Upload" from best</description>
+        <accepts>Employer_Contribution_Schedule_Upload.html</accepts>
+    </rule>
+    <rule id="7e2cfb9a">
+        <description>Created after removal of "Update a Regular Drawdown" from best</description>
+        <accepts>Update_a_Regular_Drawdown.html</accepts>
+    </rule>
+    <rule id="218eaa45">
+        <description>Created after removal of "Create a Regular Drawdown" from best</description>
+        <accepts>Create_a_Regular_Drawdown.html</accepts>
+    </rule>
+    <rule id="17469a8">
+        <description>Created after removal of "Set Up An Adhoc Income Request" from best</description>
+        <accepts>Set_Up_An_Adhoc_Income_Request.html</accepts>
+    </rule>
+    <rule id="70acf934">
+        <description>Created after removal of "Create/Maintain Regular Pension Income details" from best</description>
+        <accepts>Create_Maintain_Regular_Pension_Income_details.html</accepts>
+    </rule>
+    <rule id="50aab424">
+        <description>Created after removal of "Retrieve Regular Pension Income details" from best</description>
+        <accepts>Retrieve_Regular_Pension_Income_details.html</accepts>
+    </rule>
+    <rule id="7a4484d6">
+        <description>Created after removal of "Retrieve Employer Contribution Amounts per Payment" from best
+        </description>
+        <accepts>Retrieve_Employer_Contribution_Amounts_per_Payment.html</accepts>
+    </rule>
+    <rule id="64c2f151">
+        <description>Created after removal of "Update Contribution Schedule details" from best</description>
+        <accepts>Update_Contribution_Schedule_details.html</accepts>
+    </rule>
+    <rule id="5dc30b52">
+        <description>Created after removal of "Override Investor Account Employer Contribution Schedule details" from
+            best
+        </description>
+        <accepts>Override_Investor_Account_Employer_Contribution_Schedule_details.html</accepts>
+    </rule>
+    <rule id="b7c862a">
+        <description>Created after removal of "Retrieve Employer Contribution Schedules" from best</description>
+        <accepts>Retrieve_Employer_Contribution_Schedules.html</accepts>
+    </rule>
+    <rule id="328df030">
+        <description>Created after removal of "Retrieve Employer Contribution Rates" from best</description>
+        <accepts>Retrieve_Employer_Contribution_Rates.html</accepts>
+    </rule>
+    <rule id="6bb0693">
+        <description>Created after removal of "Retrieve Processing Work Items" from best</description>
+        <accepts>Retrieve_Processing_Work_Items.html</accepts>
+    </rule>
+    <rule id="53b6dd01">
+        <description>Created after removal of "Retrieve Investor Account Transactions including investment details" from
+            best
+        </description>
+        <accepts>Retrieve_Investor_Account_Transactions_including_investment_details.html</accepts>
+    </rule>
+    <rule id="13e30e32">
+        <description>Created after removal of "Retrieve Employer Pension Contributions" from best</description>
+        <accepts>Retrieve_Employer_Pension_Contributions.html</accepts>
+    </rule>
+    <rule id="252552">
+        <description>Created after removal of "Retrieve Rate of Returns" from best</description>
+        <accepts>Retrieve_Rate_of_Returns.html</accepts>
+    </rule>
+    <rule id="35242870">
+        <description>Created after removal of "Create a Recurring Investment Rebalance" from best</description>
+        <accepts>Create_a_Recurring_Investment_Rebalance.html</accepts>
+    </rule>
+    <rule id="48c80868">
+        <description>Created after removal of "Retrieve Investor Account Valuation" from best</description>
+        <accepts>Retrieve_Investor_Account_Valuation.html</accepts>
+    </rule>
+    <rule id="73bd3ac9">
+        <description>Created after removal of "Maintain Investor Account Investment Strategies" from best</description>
+        <accepts>Maintain_Investor_Account_Investment_Strategies.html</accepts>
+    </rule>
+    <rule id="18ae5010">
+        <description>Created after removal of "Retrieve Investor Account Investment details" from best</description>
+        <accepts>Retrieve_Investor_Account_Investment_details.html</accepts>
+    </rule>
+    <rule id="4f6a1bdb">
+        <description>Created after removal of "Retrieve Employee details" from best</description>
+        <accepts>Retrieve_Employee_details.html</accepts>
+    </rule>
+    <rule id="2afc71cb">
+        <description>Created after removal of "Update Investor Account Beneficiaries" from best</description>
+        <accepts>Update_Investor_Account_Beneficiaries.html</accepts>
+    </rule>
+    <rule id="6508b310">
+        <description>Created after removal of "Retrieve Investor Account Beneficiaries" from best</description>
+        <accepts>Retrieve_Investor_Account_Beneficiaries.html</accepts>
+    </rule>
+    <rule id="661fea84">
+        <description>Created after removal of "Retrieve Investor Account details" from best</description>
+        <accepts>Retrieve_Investor_Account_details.html</accepts>
+    </rule>
+    <rule id="3a3aa4ac">
+        <description>Created after removal of "Create a new Individual Relation" from best</description>
+        <accepts>Create_a_new_Individual_Relation.html</accepts>
+    </rule>
+    <rule id="7a6eb447">
+        <description>Created after removal of "Create a Crystallisation Request" from best</description>
+        <accepts>Create_a_Crystallisation_Request.html</accepts>
+    </rule>
+    <rule id="35e11a1a">
+        <description>Created after removal of "Create a Transfer-in Request" from best</description>
+        <accepts>Create_a_Transfer_in_Request.html</accepts>
+    </rule>
+    <rule id="1361dd35">
+        <description>Created after removal of "Retrieve Account balances for an Investor per Scheme" from best
+        </description>
+        <accepts>Retrieve_Account_balances_for_an_Investor_per_Scheme.html</accepts>
+    </rule>
+    <rule id="15f7a3dd">
+        <description>Created after removal of "Retrieve Investor’s Scheme Specific Protection" from best</description>
+        <accepts>Retrieve_Investor_s_Scheme_Specific_Protection.html</accepts>
+    </rule>
+    <rule id="434150ba">
+        <description>Created after removal of "Update Investor's Regular Contribution Arrangements" from best
+        </description>
+        <accepts>Update_Investor_s_Regular_Contribution_Arrangements.html</accepts>
+    </rule>
+    <rule id="2d80fbfa">
+        <description>Created after removal of "Create a Regular Contribution Arrangement" from best</description>
+        <accepts>Create_a_Regular_Contribution_Arrangement.html</accepts>
+    </rule>
+    <rule id="7289181d">
+        <description>Created after removal of "Retrieve Investor's Regular Contribution details" from best</description>
+        <accepts>Retrieve_Investor_s_Regular_Contribution_details.html</accepts>
+    </rule>
+    <rule id="3d269e12">
+        <description>Created after removal of "Retrieve Investor's Regular Contributions" from best</description>
+        <accepts>Retrieve_Investor_s_Regular_Contributions.html</accepts>
+    </rule>
+    <rule id="41eade2e">
+        <description>Created after removal of "Retrieve Income Details for Income Drawdown Accounts" from best
+        </description>
+        <accepts>Retrieve_Income_Details_for_Income_Drawdown_Accounts.html</accepts>
+    </rule>
+    <rule id="cbf976f">
+        <description>Created after removal of "Retrieval of Investment Returns" from best</description>
+        <accepts>Retrieval_of_Investment_Returns.html</accepts>
+    </rule>
+    <rule id="8692d71">
+        <description>Created after removal of "Retrieve Account Balances for the Investor" from best</description>
+        <accepts>Retrieve_Account_Balances_for_the_Investor.html</accepts>
+    </rule>
+    <rule id="966b83e">
+        <description>Created after removal of "Retrieve Investor Accounts for an Investor" from best</description>
+        <accepts>Retrieve_Investor_Accounts_for_an_Investor.html</accepts>
+    </rule>
+    <rule id="4425556b">
+        <description>Created after removal of "Create a new Investor Bank Account" from best</description>
+        <accepts>Create_a_new_Investor_Bank_Account.html</accepts>
+    </rule>
+    <rule id="50e550ec">
+        <description>Created after removal of "Retrieve an Investor's Bank Accounts" from best</description>
+        <accepts>Retrieve_an_Investor_s_Bank_Accounts.html</accepts>
+    </rule>
+    <rule id="7d2de2b5">
+        <description>Created after removal of "Update an Individual Investor Personal details" from best</description>
+        <accepts>Update_an_Individual_Investor_Personal_details.html</accepts>
+    </rule>
+    <rule id="5440ca40">
+        <description>Created after removal of "Retrieve Individual Investor's Personal Details" from best</description>
+        <accepts>Retrieve_Individual_Investor_s_Personal_Details.html</accepts>
+    </rule>
+    <rule id="2a60ff6c">
+        <description>Created after removal of "Investor Search" from best</description>
+        <accepts>Investor_Search.html</accepts>
+    </rule>
+    <rule id="10579c3">
+        <description>Created after removal of "API Reference" from best</description>
+        <accepts>API_Reference2.html</accepts>
+    </rule>
 </rules>

@@ -11,6 +11,19 @@
             <algolia-id>V6MS25BRYB</algolia-id>
             <algolia-index>test_Writerside</algolia-index>
             <web-root>https://some.domain</web-root>
+            <feedback-support>true</feedback-support>
+            <feedback-url></feedback-url>
+            <showDownloadButton>true</showDownloadButton>
+            <download-title>One text</download-title>
+            <download-page>https://google.com</download-page>
+            <primary-color>#DEB7FF</primary-color>
+        </variables>
+    </build-profile>
+    <build-profile instance="m">
+        <variables>
+            <showDownloadButton>true</showDownloadButton>
+            <download-title>Another text</download-title>
+            <download-page>https://google.com</download-page>
         </variables>
     </build-profile>
     <icons><local-src>/icons</local-src></icons>

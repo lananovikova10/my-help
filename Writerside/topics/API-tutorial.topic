@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="API tutorial" id="API-tutorial">
+
+    <p>Start typing here...</p>
+
+    <deflist>
+        <def>
+            <title><icon src="360.svg"/> 360 degrees <code>icon</code></title>
+        </def>
+        <def>
+            <title><img src="chuvakix.png" width="20"/> 360 degrees icon</title>
+        </def>
+    </deflist>
+
+    <procedure style="steps">
+        <step>
+            <p>Generate a refresh token.</p>
+            <api-endpoint openapi-path="../../openapi-simple.yaml" endpoint="/pets/{petId}" method="GET">
+
+                <request>
+                    <sample lang="JSON">
+                        {
+                        &quot;URi&quot;: &quot;https://{{FQDN}}/csp/gateway/am/api/login?access_token&quot;,
+                        &quot;Method&quot;: &quot;POST&quot;,
+                        &quot;Headers&quot;: {
+                        &quot;accept&quot;: &quot;application/json&quot;,
+                        &quot;content-type&quot;: &quot;application/json&quot;
+                        },
+                        &quot;Body&quot;: {
+                        &quot;username&quot;: &quot;&lt;Your USERNAME&gt;&quot;,
+                        &quot;password&quot;: &quot;&lt;Your PASSWORD&gt;&quot;,
+                        &quot;domain&quot;: &quot;&lt;Your DOMAIN&gt;&quot;
+                        }
+                        }
+                    </sample>
+                </request>
+                <response type="200">
+                    <sample lang="JSON">
+                        { "refresh_token" : "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" }
+                    </sample>
+                </response>
+            </api-endpoint>
+        </step>
+    </procedure>
+</topic>

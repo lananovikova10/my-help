@@ -2,10 +2,67 @@
 
 Start typing here...
 
+
 ```mermaid
-graph TD;
-    A[初始化] --> B{是否初始化成功?}
-    B -->|是| C[准备关机]
-    B -->|否| D[清除缓存]
-    D --> A
+
 ```
+
+{src="seq.mermaid"}
+
+
+```mermaid
+
+sequenceDiagram
+
+    participant User
+
+    participant System
+
+    participant Database
+
+
+    User->>System: Request data
+
+    activate System
+
+    System->>Database: Retrieve data
+
+    activate Database
+
+    Database-->>System: Return data
+
+    deactivate Database
+
+    System-->>User: Send data
+
+    deactivate System
+
+```
+
+
+
+
+```plantuml
+
+```
+
+{src="seq.puml"}
+
+ 
+```plantuml
+@startuml
+participant User
+participant System
+participant Database
+
+User -> System: Request data
+activate System
+System -> Database: Retrieve data
+activate Database
+Database --> System: Return data
+deactivate Database
+System --> User: Send data
+deactivate System
+@enduml
+```
+{collapsible="true" collapsed-title-line-number="1"} 

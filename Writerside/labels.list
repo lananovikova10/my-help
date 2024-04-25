@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<labels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/stardust/labels.xsd">
+
+   <label short-name="Internal" full-name="For internal users">
+        This feature is available only for internal JetBrains users
+    </label>
+
+    <label short-name="Another" full-name="Another label" color="blue" href="https://www.google.com">
+        This is another label
+    </label>
+
+    <label short-name="Pro" full-name="Professional" color="green">
+        Pro
+    </label>
+
+    <annotation short-name="foo" full-name="Applies to Foo" color="purple"/>
+    <annotation short-name="bar" full-name="Applies to Bar" color="tangerine"/>
+
+    <annotation short-name="Experimental" full-name="This is an experimental feature" color="red"/>
+    <annotation short-name="2023.3" full-name="New in version 2023.3" color="blue"/>
+</labels>

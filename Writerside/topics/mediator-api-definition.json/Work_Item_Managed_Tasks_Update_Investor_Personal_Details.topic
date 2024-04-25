@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Work Item Managed Tasks - Update Investor Personal Details" id="Work_Item_Managed_Tasks_Update_Investor_Personal_Details">
+
+    <api-endpoint openapi-path="../../mediator-api-definition.json" method="PATCH" endpoint="/work-item-managed-tasks/investors/{investorId}/individual-personal-details"/>
+</topic>

@@ -28,6 +28,10 @@
         <toc-element topic="Create_a_pet.topic"/>
         <toc-element topic="List_all_pets.topic"/>
     </toc-element>
+    <toc-element topic="API_Reference2.topic">
+        <toc-element topic="Schemas2.topic"/>
+        <toc-element topic="Create_a_new_resource.topic"/>
+    </toc-element>
     <toc-element topic="This-is-your-tool-for-documentation.md"/>
     <toc-element topic="Empty-MD-Topic.md"/>
     <toc-element topic="Empty-XML-Topic.topic"/>

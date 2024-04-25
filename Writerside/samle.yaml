@@ -1,0 +1,133 @@
+openapi: 3.0.0
+info:
+  title: Your API
+  version: 1.0.0
+paths:
+  /your/path:
+    post:
+      summary: Create a new resource
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                earliestPostingDate:
+                  type: string
+                  pattern: '\d{4}-\d{2}-\d{2}'
+                  example: "2023-03-31"
+                  description: Earliest allowed posting date.
+              required:
+                - earliestPostingDate
+      responses:
+        '200':
+          description: 'Returned if the request is successful.'
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  id:
+                    type: string
+                    description: Identifier of the created resource.
+                  statusActive:
+                    type: boolean
+                    description: Status of the resource.
+                  purchaseOrderId:
+                    type: string
+                    description: Purchase order identifier associated with the line item.
+                  purchaseOrderItemId:
+                    type: string
+                    description: Purchase order item identifier associated with the line item.
+                  amount:
+                    type: number
+                    description: Amount associated with the line item.
+              required:
+                - id
+                - statusActive
+                - purchaseOrderId
+                - purchaseOrderItemId
+                - amount
+        '401':
+          description: |
+            Error 401 - Unauthorized.
+
+            All API endpoints will return this Error if you try to retrieve information 
+            without an Access Token or with an Invalid Access Token. 
+
+            > Auth/token endpoint will returns this error if a user tries to use invalid credentials or Refresh Token.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  code:
+                    type: integer
+                  status:
+                    type: boolean
+                  message:
+                    type: string
+                  details:
+                    oneOf:
+                      - type: null
+                      - type: object
+              example:
+                code: 401
+                status: false
+                message: Unauthorized
+                details: null
+        '404':
+          description: |-
+            **Error 404 - The requested resource (endpoint or object) doesn't 
+            exist**
+
+            We return this Error in two cases:
+            1. if user tries to call nonexistent endpoint.
+            2. if user tries to call inexistent project, document, source, user.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  code:
+                    type: integer
+                  status:
+                    type: boolean
+                  message:
+                    type: string
+                  details:
+                    oneOf:
+                      - type: null
+                      - type: object
+              examples:
+                Example - Endpoint not found:
+                  value:
+                    code: 404
+                    status: false
+                    message: Not Found
+                    details: null
+                Example - Project not found:
+                  value:
+                    code: 404
+                    status: false
+                    message: Project not found.
+                    details: null
+                Example - Document not found:
+                  value:
+                    code: 404
+                    status: false
+                    message: Document not found in the Project with ID = 250.
+                    details: null
+                Example - Account not found:
+                  value:
+                    code: 404
+                    status: false
+                    message: The requested account doesn't exist.
+                    details: null
+                Example - Source not found:
+                  value:
+                    code: 404
+                    status: false
+                    message: The requested source doesn't exist.
+                    details: null

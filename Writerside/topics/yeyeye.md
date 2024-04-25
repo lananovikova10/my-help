@@ -8,6 +8,8 @@ Start typing here...
 
 ## Heading 1 {label="Another"}
 
+[???](Empty-MD-Topic.md)
+
 fff
 
 ## Heading 2 {label="Pro"}

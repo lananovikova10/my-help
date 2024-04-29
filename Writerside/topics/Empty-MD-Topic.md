@@ -9,3 +9,5 @@ web-summary: Summary for search crawlers.
 
 Cool topic
 Probably the best of all. 
+
+<tooltip term="...">text</tooltip>

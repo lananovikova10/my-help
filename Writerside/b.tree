@@ -12,10 +12,16 @@
     <include from="l" element-id="flowchart"/>
     <toc-element topic="API-tutorial.topic"/>
     <toc-element topic="Example.topic"/>
+    <toc-element topic="Example-Markdown.md"/>
     <toc-element topic="Tabs.md"/>
     <toc-element topic="deflist.md"/>
     <toc-element topic="API_Reference.topic">
         <toc-element topic="Info_for_a_specific_pet.topic"/>
+        <toc-element topic="API_Reference3.topic">
+            <toc-element topic="Info_for_a_specific_pet2.topic"/>
+            <toc-element topic="Create_a_pet2.topic"/>
+            <toc-element topic="List_all_pets2.topic"/>
+        </toc-element>
         <toc-element topic="API_Reference_1.md">
             <toc-element topic="Schemas.md">
                 <toc-element topic="Error.md"/>

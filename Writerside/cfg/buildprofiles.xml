@@ -7,16 +7,13 @@
         <variables>
             <noindex-content>false</noindex-content>
             <offline-docs>false</offline-docs>
-            <algolia-api-key>ac9df245bbc9e236e7e54d530b0f7dd2</algolia-api-key>
-            <algolia-id>V6MS25BRYB</algolia-id>
-            <algolia-index>test_Writerside</algolia-index>
             <web-root>https://some.domain</web-root>
-            <feedback-support>true</feedback-support>
-            <feedback-url></feedback-url>
             <showDownloadButton>true</showDownloadButton>
             <download-title>One text</download-title>
             <download-page>https://google.com</download-page>
             <primary-color>#DEB7FF</primary-color>
+            <enable-browser-edits>true</enable-browser-edits>
+            <browser-edits-url>https://github.com/lananovikova10/my-help/tree/main/Writerside/</browser-edits-url>
         </variables>
     </build-profile>
     <build-profile instance="m">

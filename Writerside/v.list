@@ -3,4 +3,6 @@
 <vars>
     <var name="product" value="Writerside"/>
     <var name="url" value="../../openapi-simple.yaml"/>
+    <var name="def1" value="First definition"/>
+    <var name="def2" value="Second definition"/>
 </vars>

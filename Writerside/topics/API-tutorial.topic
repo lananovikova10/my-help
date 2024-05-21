@@ -5,7 +5,24 @@
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="API tutorial" id="API-tutorial">
 
+    <tldr>
+        <p>Open API tutorials using in-built browser.</p>
+        <p>API tutorials can guide you through implementations.</p>
+    </tldr>
+
+
     <p>Start typing here...</p>
+    <a href="Example.topic" anchor="two" summary="%def2%"/>
+
+    <p>Start typing here...</p>
+    <a href="Example.topic" anchor="one" summary="%def1%"></a>
+
+    <p>ggg</p>
+    <a href="Example.topic" anchor="one"></a>
+
+    <p>Start typing here...</p>
+    <a href="Example.topic" anchor="third" summary="<include from="Example.topic" element-id="three"/>"/></a>
+
 
 
 </topic>

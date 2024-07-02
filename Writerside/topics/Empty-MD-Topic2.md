@@ -6,7 +6,9 @@ TSAPI is a powerful library for developing and simulating trading strategies. Th
 
 [//]: # (TODO: fix this)
 
-TSAPI allows you to define trading strategies, simulate them on historical data, and eventually go live with real-time data. The core components of a strategy include defining the instruments, scheduling, event handlers, and utilizing SAX for time series analysis.
+TSAPI allows you to define trading strategies, simulate them on historical data, and eventually go live with 
+real-time data. The core components of a strategy include defining the instruments, scheduling, event handlers, and 
+utilizing SAXXXX for time series analysis.
 
 ## Key Components
 

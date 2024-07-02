@@ -17,6 +17,7 @@
             <primary-color>#DEB7FF</primary-color>
             <enable-browser-edits>true</enable-browser-edits>
             <browser-edits-url>https://github.com/lananovikova10/my-help/tree/main/Writerside/</browser-edits-url>
+<!--            <include-before-body>/scripts/script.html</include-before-body>-->
         </variables>
     </build-profile>
     <build-profile instance="m">

@@ -7,22 +7,21 @@
 
     <tldr>
         <p>Open API tutorials using in-built browser.</p>
-        <p>API tutorials can guide you through implementations.</p>
+        <p><highlight>API tutorials</highlight> can guide you through implementations.</p>
     </tldr>
 
 
     <p>Start typing here...</p>
-    <a href="Example.topic" anchor="two" summary="%def2%"/>
+    <a href="api_endpoints_reusable.topic" anchor="two" summary="%def2%"/>
 
     <p>Start typing here...</p>
-    <a href="Example.topic" anchor="one" summary="%def1%"></a>
+    <a href="api_endpoints_reusable.topic" anchor="one" summary="%def1%"></a>
 
     <p>ggg</p>
-    <a href="Example.topic" anchor="one"></a>
+    <a href="api_endpoints_reusable.topic" anchor="one"></a>
 
     <p>Start typing here...</p>
-    <a href="Example.topic" anchor="third" summary="<include from="Example.topic" element-id="three"/>"/></a>
-
+    <a href="api_endpoints_reusable.topic" anchor="third" summary="<include from=" Example.topic" element-id="three"/>"/></a>
 
 
 </topic>

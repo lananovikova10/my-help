@@ -6,43 +6,43 @@
                  name="best"
                  start-page="starter-topic.md">
 
+    <toc-element topic="Template Release Notes.md"/>
+    <toc-element topic="Style Guide Template.md"/>
+    <toc-element topic="template-api-reference.md"/>
+    <toc-element topic="template-installation-guide.md"/>
+    <toc-element topic="Groom.md"/>
+    <toc-element topic="How to Template.md"/>
+    <toc-element topic="Good Docs Template Concept.md"/>
+    <toc-element topic="Empty-XML-Topicsssss.topic"/>
     <toc-element topic="Tutorial.topic"/>
+    <toc-element topic="API_Reference.topic">
+        <toc-element topic="Schemas.topic">
+            <toc-element topic="SomeTitle.topic"/>
+            <toc-element topic="Error.topic"/>
+            <toc-element topic="Pets.topic"/>
+            <toc-element topic="Pet.topic"/>
+            <toc-element topic="Order.topic"/>
+        </toc-element>
+        <toc-element topic="Info_for_a_specific_pet.topic"/>
+        <toc-element topic="Create_a_pet.topic"/>
+        <toc-element topic="List_all_pets.topic"/>
+        <toc-element topic="Create_an_Order.topic"/>
+    </toc-element>
     <toc-element topic="Mermaid.md"/>
     <toc-element topic="yeyeye.md"/>
     <include from="l" element-id="flowchart"/>
     <toc-element topic="API-tutorial.topic"/>
-    <toc-element topic="Example.topic"/>
+    <toc-element topic="api_endpoints_reusable.topic"/>
     <toc-element topic="Example-Markdown.md"/>
+    <toc-element topic="Empty-MD-Topic2.md"/>
+    <toc-element topic="Empty-XML-Topic-2.topic"/>
     <toc-element topic="Tabs.md"/>
     <toc-element topic="deflist.md"/>
-    <toc-element topic="API_Reference.topic">
-        <toc-element topic="Info_for_a_specific_pet.topic"/>
-        <toc-element topic="API_Reference3.topic">
-            <toc-element topic="Info_for_a_specific_pet2.topic"/>
-            <toc-element topic="Create_a_pet2.topic"/>
-            <toc-element topic="List_all_pets2.topic"/>
-        </toc-element>
-        <toc-element topic="API_Reference_1.md">
-            <toc-element topic="Schemas.md">
-                <toc-element topic="Error.md"/>
-                <toc-element topic="Pets.md"/>
-                <toc-element topic="Pet.md"/>
-            </toc-element>
-            <toc-element topic="Info_for_a_specific_pet_1.md"/>
-            <toc-element topic="Create_a_pet_1.md"/>
-            <toc-element topic="List_all_pets_1.md"/>
-        </toc-element>
-        <toc-element topic="Create_a_pet.topic"/>
-        <toc-element topic="List_all_pets.topic"/>
-    </toc-element>
-    <toc-element topic="API_Reference2.topic">
-        <toc-element topic="Schemas2.topic"/>
-        <toc-element topic="Create_a_new_resource.topic"/>
-    </toc-element>
     <toc-element topic="This-is-your-tool-for-documentation.md"/>
     <toc-element topic="Empty-MD-Topic.md"/>
     <toc-element topic="Empty-XML-Topic.topic"/>
     <toc-element topic="Grid-tables.md"/>
+    <toc-element topic="Starter.md"/>
     <toc-element topic="starter-topic.md"/>
     <toc-element topic="How-to-do-things.md">
         <toc-element topic="Overview.topic"/>

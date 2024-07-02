@@ -7,5 +7,6 @@
                   start-page="li.md" is-library="true">
 
     <toc-element topic="Flowcart.md" id="flowchart"/>
+    <toc-element topic="Testing-highlighting.md"/>
     <toc-element topic="li.md"/>
 </instance-profile>

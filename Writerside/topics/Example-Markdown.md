@@ -6,57 +6,41 @@
     <p>Banana cultivation and trade is a global phenomenon</p>
 </tldr>
 
+## Chapter 1 
 
-<code-block lang="java">
-@Entity
-@Table(name = "FOO")
-public class Foo {
-   @Id
-   @GeneratedValue(strategy = GenerationType.SEQUENCE)
-   private Long CNT;
+<tabs>
+<tab title="Title 1">
 
-private String REFID;
+Content for the tab 1
 
-... getters and setters ...
-}
-</code-block>
+<tabs>
+<tab title="Title11">
 
-```java
-@Entity
-@Table(name = "FOO")
-public class Foo {
-   @Id
-   @GeneratedValue(strategy = GenerationType.SEQUENCE)
-   private Long CNT;
+Content for the tab 11
 
-private String REFID;
+<tabs>
+<tab title="Title112">
 
-... getters and setters ...
-}
-```
+Content for the tab 112
 
+</tab>
+<tab title="Title113">
+</tab>
+</tabs>
+</tab>
+<tab title="Title12">
+</tab>
+</tabs>
+</tab>
+<tab title="Title 2"></tab>
+<tab title="Title 3"></tab>
+</tabs>
 
-Begin typing here...
-This is a fascinating topic about the history of bananas.
-Bananas are among the most popular fruits worldwide, known for their delightful taste and nutritional value. But did you
+## Chapter 2
 
-know that the history of bananas is rich and fascinating? They originated in Southeast Asia and their cultivation and
-trade spread all over the world. The story of bananas is truly remarkable.
-
-## Inception of Bananas
-
-Travelling back thousands of years, to Southeast Asia, takes us to the beginnings of banana domestication, 
-accredited to the `ancient` humans. These precursory bananas bear little resemblance to today's versions; they were petite and were characterized by their large seeds.
-
-```d2
-shape: sequence_diagram
-alice -> bob: What does it mean\nto be well-adjusted?
-bob -> alice: The ability to play bridge or\ngolf as if they were games.
-```
-
-[//]: # ()
-[//]: # (```d2)
-
-[//]: # (```)
-
-[//]: # ({src="graph-flowchart.d2"})
+<tabs>
+<tab title="Title 1"></tab>
+<tab title="Title 2"></tab>
+<tab title="Title 3"></tab>
+<tab title="Title 4"></tab>
+</tabs>

@@ -638,4 +638,156 @@
         <description>Created after removal of "API Reference" from best</description>
         <accepts>API_Reference2.html</accepts>
     </rule>
+    <rule id="208f8178">
+        <description>Created after removal of "Info for a specific pet" from best</description>
+        <accepts>Info_for_a_specific_pet.html</accepts>
+    </rule>
+    <rule id="8f52583">
+        <description>Created after removal of "API Reference" from best</description>
+        <accepts>API_Reference3.html</accepts>
+    </rule>
+    <rule id="161c8f14">
+        <description>Created after removal of "Info for a specific pet" from best</description>
+        <accepts>Info_for_a_specific_pet2.html</accepts>
+    </rule>
+    <rule id="3f7171bd">
+        <description>Created after removal of "Create a pet" from best</description>
+        <accepts>Create_a_pet2.html</accepts>
+    </rule>
+    <rule id="41e0843d">
+        <description>Created after removal of "List all pets" from best</description>
+        <accepts>List_all_pets2.html</accepts>
+    </rule>
+    <rule id="47264ee3">
+        <description>Created after removal of "API Reference" from best</description>
+        <accepts>API_Reference_1.html</accepts>
+    </rule>
+    <rule id="798d2f13">
+        <description>Created after removal of "Schemas" from best</description>
+        <accepts>Schemas.html</accepts>
+    </rule>
+    <rule id="42f66965">
+        <description>Created after removal of "Error" from best</description>
+        <accepts>Error.html</accepts>
+    </rule>
+    <rule id="1541d16e">
+        <description>Created after removal of "Pets" from best</description>
+        <accepts>Pets.html</accepts>
+    </rule>
+    <rule id="72ea8f81">
+        <description>Created after removal of "Pet" from best</description>
+        <accepts>Pet.html</accepts>
+    </rule>
+    <rule id="7ca5c870">
+        <description>Created after removal of "Info for a specific pet" from best</description>
+        <accepts>Info_for_a_specific_pet_1.html</accepts>
+    </rule>
+    <rule id="1ef56f8d">
+        <description>Created after removal of "Create a pet" from best</description>
+        <accepts>Create_a_pet_1.html</accepts>
+    </rule>
+    <rule id="7b84871f">
+        <description>Created after removal of "List all pets" from best</description>
+        <accepts>List_all_pets_1.html</accepts>
+    </rule>
+    <rule id="7ac22e5e">
+        <description>Created after removal of "Create a pet" from best</description>
+        <accepts>Create_a_pet.html</accepts>
+    </rule>
+    <rule id="362e736b">
+        <description>Created after removal of "List all pets" from best</description>
+        <accepts>List_all_pets.html</accepts>
+    </rule>
+    <rule id="6dcf77e5">
+        <description>Created after removal of "API Reference" from best</description>
+        <accepts>API_Reference.html</accepts>
+    </rule>
+    <rule id="36f71735">
+        <description>Created after removal of "Schemas" from best</description>
+        <accepts>Schemas2.html</accepts>
+    </rule>
+    <rule id="7c09a62c">
+        <description>Created after removal of "Create a new resource" from best</description>
+        <accepts>Create_a_new_resource.html</accepts>
+    </rule>
+    <rule id="49f7215e">
+        <description>Created after removal of "API Reference" from best</description>
+        <accepts>API_Reference2.html</accepts>
+    </rule>
+    <rule id="299afb87">
+        <description>Created after removal of "Schemas" from best</description>
+        <accepts>Schemas.html</accepts>
+    </rule>
+    <rule id="6a4f9396">
+        <description>Created after removal of "Error" from best</description>
+        <accepts>Error.html</accepts>
+    </rule>
+    <rule id="150572ba">
+        <description>Created after removal of "Pets" from best</description>
+        <accepts>Pets.html</accepts>
+    </rule>
+    <rule id="108b3a0b">
+        <description>Created after removal of "Pettttt" from best</description>
+        <accepts>Pettttt.html</accepts>
+    </rule>
+    <rule id="5115fd0c">
+        <description>Created after removal of "Info for a specific pet" from best</description>
+        <accepts>Info_for_a_specific_pet.html</accepts>
+    </rule>
+    <rule id="3788e911">
+        <description>Created after removal of "Create a pet" from best</description>
+        <accepts>Create_a_pet.html</accepts>
+    </rule>
+    <rule id="1a5a40b6">
+        <description>Created after removal of "List all pets" from best</description>
+        <accepts>List_all_pets.html</accepts>
+    </rule>
+    <rule id="692f919a">
+        <description>Created after removal of "API Reference" from best</description>
+        <accepts>API_Reference.html</accepts>
+    </rule>
+    <rule id="372096d3">
+        <description>Created after removal of "Schemas" from best</description>
+        <accepts>Schemas.html</accepts>
+    </rule>
+    <rule id="4ebfc1ee">
+        <description>Created after removal of "AdditionalObject" from best</description>
+        <accepts>AdditionalObject.html</accepts>
+    </rule>
+    <rule id="173efa44">
+        <description>Created after removal of "Error" from best</description>
+        <accepts>Error.html</accepts>
+    </rule>
+    <rule id="51184b97">
+        <description>Created after removal of "Pets" from best</description>
+        <accepts>Pets.html</accepts>
+    </rule>
+    <rule id="56373274">
+        <description>Created after removal of "Pet" from best</description>
+        <accepts>Pet.html</accepts>
+    </rule>
+    <rule id="570899f1">
+        <description>Created after removal of "Order" from best</description>
+        <accepts>Order.html</accepts>
+    </rule>
+    <rule id="c7e51c9">
+        <description>Created after removal of "Info for a specific pet" from best</description>
+        <accepts>Info_for_a_specific_pet.html</accepts>
+    </rule>
+    <rule id="7949929">
+        <description>Created after removal of "Create a pet" from best</description>
+        <accepts>Create_a_pet.html</accepts>
+    </rule>
+    <rule id="2ccf6422">
+        <description>Created after removal of "List all pets" from best</description>
+        <accepts>List_all_pets.html</accepts>
+    </rule>
+    <rule id="4903df7b">
+        <description>Created after removal of "Create an Order" from best</description>
+        <accepts>Create_an_Order.html</accepts>
+    </rule>
+    <rule id="25d07750">
+        <description>Created after removal of "API Reference" from best</description>
+        <accepts>API_Reference.html</accepts>
+    </rule>
 </rules>

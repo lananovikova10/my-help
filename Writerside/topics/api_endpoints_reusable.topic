@@ -3,27 +3,34 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
-       title="Example" id="Example">
+       title="Example" id="api_endpoints_reusable" help-id="Example">
 
     <note>Per questioni di semplicità, l'archvio <b>PdC_vX.X.XX.XX.XX.zip</b> all'interno del percorso <path>PachettoPdCA2A/Software</path> verrà chiamata <b>PdC_A2A_Installazione</b>. Si consiglia di rinominarla.</note>
 
-    <tip>
-        È molto importate prestare attenzione quando vengono efettuati questi step, siccome questa è una delle sezioni più importanti per l'installazione della PdC.
+    <snippet id="reuse-2">
 
-        Se si incontrano problemi nelle sezioni successive, è consigliato ricontrollare passo per passo questa sezione.
-    </tip>
+        <tip>
+            È molto importate prestare attenzione quando vengono efettuati questi step, siccome questa è una delle sezioni più importanti per l'installazione della PdC.
 
-    <code-block lang="java">
+            Se si incontrano problemi nelle sezioni successive, è consigliato ricontrollare passo per passo questa sezione.
+        </tip>
+    </snippet>
+
+
+    <code-block lang="java"><![CDATA[
         @Entity
         @Table(name = "FOO")
         public class Foo {
-        @Id
-        @GeneratedValue(strategy = GenerationType.SEQUENCE)
-        private Long CNT;
-        <p>private String REFID;</p>
-        <p>... getters and setters ...
-            }</p>
-    </code-block>
+            @Id
+            @GeneratedValue(strategy = GenerationType.SEQUENCE)
+            private Long CNT;
+        <p>
+            private String REFID;</p>
+        <p>...
+            getters and
+            setters ...
+        }</p>
+    ]]></code-block>
 
 
     <tip>

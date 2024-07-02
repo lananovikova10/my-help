@@ -27,6 +27,15 @@
             Make sure that:
         </p>
 
+        <tabs>
+            <tab title="Title 1"></tab>
+            <tab title="Title 1"></tab>
+            <tab title="Title 1"></tab>
+            <tab title="Title 1"></tab>
+            <tab title="Title 1"></tab>
+            <tab title="Title 1"></tab>
+        </tabs>
+
         <list>
             <li>Prerequisite one</li>
             <li>Prerequisite two</li>

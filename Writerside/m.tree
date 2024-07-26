@@ -6,6 +6,9 @@
                  name="middle"
                  start-page="middle.md">
 
+    <toc-element topic="LightWave-to-Unity_Workflow.md"/>
     <toc-element topic="middle.md"/>
+    <toc-element topic="background-tasks.md"/>
     <include from="l" element-id="flowchart"/>
+    <toc-element topic="Thing-Library-Reference.md"/>
 </instance-profile>

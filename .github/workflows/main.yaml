@@ -14,7 +14,7 @@ env:
   ARTIFACT: 'webHelpB2-all.zip'
   DOCKER_VERSION: '241.15989'
   ALGOLIA_ARTIFACT: 'algolia-indexes-B.zip'
-  ALGOLIA_APP_NAME: 'V6MS25BRYB'
+  ALGOLIA_APP_NAME: '<APPNAME>'
   ALGOLIA_INDEX_NAME: 'test_Writerside'
   ALGOLIA_KEY: '${{ secrets.ALGOLIA_KEY }}'
   CONFIG_JSON_PRODUCT: 'B'

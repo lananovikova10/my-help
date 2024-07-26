@@ -9,4 +9,24 @@
     <include from="lib.topic" element-id="reuse-1"/>
 
     <include from="api_endpoints_reusable.topic" element-id="reuse-2"/>
+
+    <table>
+        <tr>
+            <td>1fff</td>
+            <td>fff2</td>
+            <td>Not supported</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>4</td>
+            <td>Not suppored</td>
+        </tr>
+        <tr>
+            <td>fff</td>
+            <td>fff</td>
+            <td>fff</td>
+        </tr>
+    </table>
 </topic>
+
+<p>fff</p>

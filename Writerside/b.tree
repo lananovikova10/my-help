@@ -6,6 +6,7 @@
                  name="best"
                  start-page="starter-topic.md">
 
+    <toc-element topic="LightWave-to-Unity_Workflow.md"/>
     <toc-element topic="Template Release Notes.md"/>
     <toc-element topic="Style Guide Template.md"/>
     <toc-element topic="template-api-reference.md"/>
@@ -28,7 +29,6 @@
         <toc-element topic="List_all_pets.topic"/>
         <toc-element topic="Create_an_Order.topic"/>
     </toc-element>
-    <toc-element topic="Mermaid.md"/>
     <toc-element topic="yeyeye.md"/>
     <include from="l" element-id="flowchart"/>
     <toc-element topic="API-tutorial.topic"/>

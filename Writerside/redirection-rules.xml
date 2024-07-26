@@ -790,4 +790,8 @@
         <description>Created after removal of "API Reference" from best</description>
         <accepts>API_Reference.html</accepts>
     </rule>
+    <rule id="3a9305a9">
+        <description>Created after removal of "Mermaid" from best</description>
+        <accepts>Mermaid.html</accepts>
+    </rule>
 </rules>

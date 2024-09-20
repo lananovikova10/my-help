@@ -6,6 +6,14 @@ The "Thing" library is a Python-based neural vision system designed to optimize 
 
 ## Installation
 
+[](hellp.md)
+
+```tex
+\begin{equation}
+x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+\end{equation}
+```
+
 ```python
 pip install thing-library
 ```

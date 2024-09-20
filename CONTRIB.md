@@ -4,6 +4,12 @@ Welcome to the [Project Name] documentation! We appreciate your interest in cont
 
 ## How to Contribute
 
+```tex
+\begin{equation}
+x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+\end{equation}
+```
+
 To contribute to this documentation project, please follow these steps:
 
 1. **Fork the Repository**: Start by forking the [Project Name] repository to your GitHub account.

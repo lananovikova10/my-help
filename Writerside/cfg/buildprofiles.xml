@@ -8,11 +8,24 @@
             <showDownloadButton>true</showDownloadButton>
             <download-page>https://example.com</download-page>
             <download-title>Click here</download-title>
+            <enable-browser-edits>true</enable-browser-edits>
+            <browser-edits-url>hrtt</browser-edits-url>
         </variables>
     </build-profile>
     <variables>
         <primary-color>#E51266</primary-color>
+        <ignore-problems>REF002, CDE014, VIS001</ignore-problems>
     </variables>
     <icons><local-src>/icons</local-src></icons>
-
+    <build-profile instance="l">
+        <variables>
+            <noindex-content>true</noindex-content>
+        </variables>
+    </build-profile>
+    <build-profile instance="l">
+        <variables>
+            <noindex-content>true</noindex-content>
+        </variables>
+    </build-profile>
+    <automaticLinkSummaries>false</automaticLinkSummaries>
 </buildprofiles>

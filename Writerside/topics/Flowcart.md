@@ -12,6 +12,14 @@ In the [backgtoung](background-tasks.md) thigjghdgfgfggg.
 
 {src="seq.mermaid"}
 
+<img src="procedure1.png" alt="regular image"/>
+
+<img src="procedure_dark.png" alt="dark version of the same image"/>
+
+<tip title="Soft wraps" id="soft-wraps">
+...
+</tip>
+
 
 ```mermaid
 

@@ -2,9 +2,15 @@
 
 ## Overview
 
-The "Thing" library is a neural vision-based system designed to optimize spatial organization in dynamic environments such as cafes and restaurants.
+&nbsp; This is the example line.
+
+The "Thing" library <tooltip term="foo">foo</tooltip> is a neural vision-based system designed to optimize spatial organization in dynamic environments such as cafes and restaurants.
 
 ## Key Features
+
+<var name="foo" value="bar"/>
+
+Can I do %foo%?
 
 - **Neurovision-Based Analysis**: Advanced neural networks for spatial organization.
 - **Environment Adaptability**: Performs well under suboptimal lighting and chaos.
@@ -22,6 +28,15 @@ The "Thing" library is a neural vision-based system designed to optimize spatial
 
 ## Implementation
 
+```java
+class Hello {
+    public static void main(String[] args) {
+        System.out.println("Hello")
+    }
+}
+```
+{noinject="true"}
+
 - **Installation**: Available on local servers or cloud.
 - **Configuration**: Environment-specific setup.
 - **Training**: Short adaptation phase.
@@ -38,3 +53,8 @@ The "Thing" library is a neural vision-based system designed to optimize spatial
 - **Cafe Optimization**: 30% reduction in organization time.
 - **Restaurant Efficiency**: 25% increase in table turnover rate.
 
+<seealso>
+        <category ref="wrs">
+            <a href="mailto:someone@example.com">Send email</a>
+        </category>
+    </seealso>

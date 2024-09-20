@@ -9,6 +9,7 @@
     <toc-element topic="LightWave-to-Unity_Workflow.md"/>
     <toc-element topic="middle.md"/>
     <toc-element topic="background-tasks.md"/>
-    <include from="l" element-id="flowchart"/>
+    <include from="l.tree" element-id="flowchart"/>
     <toc-element topic="Thing-Library-Reference.md"/>
+    <toc-element topic="deflist.md"/>
 </instance-profile>

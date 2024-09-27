@@ -13,3 +13,6 @@ Start typing here...
 fff
 
 ## Heading 2 {label="Pro"}
+
+Creation is done via a <code>create()</code> method. If the class can create more than one type of string,
+it can define additional <code>create<emphasis>NNN</emphasis>()</code> methods as appropriate.

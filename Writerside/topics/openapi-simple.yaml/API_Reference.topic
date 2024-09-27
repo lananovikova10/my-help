@@ -6,4 +6,14 @@
        title="API Reference" id="API_Reference">
 
     <p>Start typing here...</p>
+
+    <code-block lang="XML">
+        <chapter title="Example chapter"
+                 id="Example">
+            <p>
+                Lorem ipsum dolor sit amet,
+                consectetur adipiscing elit.
+            </p>
+        </chapter>
+    </code-block>
 </topic>

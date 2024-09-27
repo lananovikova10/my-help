@@ -10,6 +10,15 @@ The "Thing" library <tooltip term="foo">foo</tooltip> is a neural vision-based s
 
 <var name="foo" value="bar"/>
 
+```http request
+GET host/api/test
+
+> {%
+// Response Handler Script
+...
+%}
+```
+
 Can I do %foo%?
 
 - **Neurovision-Based Analysis**: Advanced neural networks for spatial organization.

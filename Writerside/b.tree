@@ -6,6 +6,7 @@
                  name="best"
                  start-page="starter-topic.md">
 
+    <toc-element topic="Tables.md"/>
     <toc-element topic="LightWave-to-Unity_Workflow.md"/>
     <toc-element topic="Template Release Notes.md"/>
     <toc-element topic="Style Guide Template.md"/>

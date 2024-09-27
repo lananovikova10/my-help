@@ -794,4 +794,8 @@
         <description>Created after removal of "Mermaid" from best</description>
         <accepts>Mermaid.html</accepts>
     </rule>
+    <rule id="50a24580">
+        <description>Created after removal of "Starter2" from middle</description>
+        <accepts>Starter2.html</accepts>
+    </rule>
 </rules>

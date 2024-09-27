@@ -7,6 +7,9 @@
                  start-page="middle.md">
 
     <toc-element topic="LightWave-to-Unity_Workflow.md"/>
+    <toc-element topic="Section-Starting-Page.topic"/>
+    <toc-element topic="Developer Essentials Topic from YouTrack.topic"/>
+    <toc-element topic="Developer Essentials Topic.topic"/>
     <toc-element topic="middle.md"/>
     <toc-element topic="background-tasks.md"/>
     <include from="l.tree" element-id="flowchart"/>

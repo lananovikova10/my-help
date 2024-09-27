@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Developer Essentials" id="developer-essentials" help-id="Developer Essentials">
+
+    <section-starting-page>
+        <title>WebClient Developer Essentials</title>
+        <description>
+            This guide provides essential information for developers looking to get started with the WebClient.
+        </description>
+        <!--    Add up to 2 topics that you want to promote. Use the "type" attribute to select an icon.    -->
+        <spotlight>
+            <a href="web-client-getting-started.md" type="р" summary="Getting Started">Set Up Your Environment</a>
+            <a href="build-with-docker.md" type="container" summary="Build with Docker">Building the application in Docker</a>
+        </spotlight>
+
+        <!--    Add several topics that are most important for this section.    -->
+        <primary>
+            <title>FAQ</title>
+            <a href="how-to-guide.topic" type="library" summary="FAQ">Frequently Asked Questions</a>
+        </primary>
+        <secondary>
+            <title>Build Information</title>
+            <a href="web-client-getting-started.md">Webclient Frontend Build</a>
+            <a href="web-client-getting-started.md">Backend Dependencies</a>
+            <a href="web-client-getting-started.md">Project Structure Overview</a>
+            <a href="web-client-getting-started.md">Build Scripts</a>
+        </secondary>
+    </section-starting-page>
+</topic>
